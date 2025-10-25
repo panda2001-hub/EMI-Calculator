@@ -1,2 +1,2 @@
 # EMI-Calculator
-EMI Calculator BGU training
+EMI Calculator BGU training bbbn
